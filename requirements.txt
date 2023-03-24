@@ -1,0 +1,9 @@
+apify==1.0.0
+beautifulsoup4==4.12.0
+feedparser==6.0.10
+numpy==1.22.0
+opencv_python==4.5.3.56
+python-dotenv==1.0.0
+pyuploadcare==4.0.0
+requests==2.22.0
+tweepy==4.10.0
